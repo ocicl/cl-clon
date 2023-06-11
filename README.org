@@ -1,0 +1,9 @@
+* cl-clon
+
+The Command-Line Options Nuker
+
+|---------+----------------------------------------------------------------------------------|
+| source  | file:https://github.com/didierverna/clon/archive/refs/tags/version-1.0b26.tar.gz |
+| version | 1.0b26                                                                           |
+| systems | net.didierverna.clon                                                             |
+|---------+----------------------------------------------------------------------------------|
